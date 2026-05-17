@@ -38,7 +38,7 @@ Pictures of the project working.
 
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
-| Alberto Abraham Banda Rico | [albertobandarico@gmail.com](mailto:albertobandarico@gmail.com) | [@AuroTB](https://github.com/Bandarcrono) | Navigation,Integration & Control |
+| Alberto Abraham Banda Rico | [albertobandarico@gmail.com](mailto:albertobandarico@gmail.com) | [@Bandarcrono](https://github.com/Bandarcrono) | Navigation,Integration & Control |
 | Ivan Sol | [onticastro7@gmail.com](mailto:onticastro7@gmail.com) | [@IvanSol123](https://github.com/IvanSol123) | Mechanics |
 
 
