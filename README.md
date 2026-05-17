@@ -1,4 +1,4 @@
-# Project Name
+# Robocup Industrial @Work Competition
 
 
 
@@ -40,7 +40,6 @@ Pictures of the project working.
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
 | Alberto Abraham Banda Rico | [albertobandarico@gmail.com](mailto:albertobandarico@gmail.com) | [@Bandarcrono](https://github.com/Bandarcrono) | Navigation,Integration & Control |
 | Máximo Javier Fajardo Cantú | [maximojavierfajardo@gmail.com](mailto:maximojavierfajardo@gmail.com) | [@Maximo2323](https://github.com/Maximo2323) | Vision, Control & Integration |
-| Ivan Sol | [onticastro7@gmail.com](mailto:onticastro7@gmail.com) | [@IvanSol123](https://github.com/IvanSol123) | Mechanics |
 
 
 ## References/Support links
