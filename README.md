@@ -38,9 +38,7 @@ Pictures of the project working.
 
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
-| Aurora Tijerina | [auro.tj@gmail.com](mailto:auro.tj@gmail.com) | [@AuroTB](https://github.com/aurotb) | Navigation & Integration |
-| Brenda Martínez Orta | [bmaor2001@gmail.com](mailto:bmaor2001@gmail.com) | [@bmaor2001](https://github.com/bmaor2001) | Result data decoding |
-| Keven Arroyo | [dake.3601@gmail.com](mailto:dake.3601@gmail.com) | [@dake3601](https://github.com/dake3601) | Path finding |
+| Alberto Abraham Banda Rico | [albertobandarico@gmail.com](mailto:albertobandarico@gmail.com) | [@AuroTB](https://github.com/Bandarcrono) | Navigation,Integration & Control |
 | Ivan Sol | [onticastro7@gmail.com](mailto:onticastro7@gmail.com) | [@IvanSol123](https://github.com/IvanSol123) | Mechanics |
 
 
