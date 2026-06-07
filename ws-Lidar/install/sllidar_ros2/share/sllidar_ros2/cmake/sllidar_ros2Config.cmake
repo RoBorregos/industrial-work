@@ -1,0 +1,1 @@
+/home/crono/dev/robotics/industrial-work/ws-Lidar/build/sllidar_ros2/ament_cmake_core/sllidar_ros2Config.cmake

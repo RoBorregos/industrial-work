@@ -1,0 +1,1 @@
+/home/crono/dev/robotics/industrial-work/ws-Lidar/src/sllidar_ros2/launch/sllidar_s2e_launch.py
